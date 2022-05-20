@@ -1,6 +1,4 @@
-FROM httpd:2.4
-COPY ./public-html/ /usr/local/apache2/htdocs/
-ADD . /var/www/html
-
-
-
+FROM openjdk:11
+EXPOSE 8081
+ADD target/spring-boot-docker spring-boot-docker
+ENTRYPOINT ["java","-jar","/spring-boot-docker"]
