@@ -9,9 +9,9 @@ services:
     ports:
       - 5432:5432
     environment:
-      - POSTGRES_DB:ecom
-      - POSTGRES_USER:ecom
-      - POSTGRES_PASSWORD:ecom
+      - POSTGRES_DB:user
+      - POSTGRES_USER:user
+      - POSTGRES_PASSWORD:user
 
   ecom-app:
     build: ./icin-user
