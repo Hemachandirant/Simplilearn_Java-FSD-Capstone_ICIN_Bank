@@ -1,2 +1,11 @@
-# ICIN-BANK_USER
+# ICIN-BANK User Portal
 ICIN is one of the top banking firms that accepts deposits from the public for the purpose of lending loans to the public. It also invests an amount in securities. Recently, the business analysts noticed a drop in the number of customers of the bank. They found out that online banking systems of banks like AXIS and American Express are gaining more profits by eliminating middlemen from the equation. As a result, the team decided to hire a Full Stack developer who can develop an online banking web application with a rich and user-friendly interface.
+
+## User Portal Funcationalities:
+
+
+1. Register or log in to the application to maintain a record of activities
+2. Deposit and withdraw money from the account
+3. View transactions and balance in the primary and savings account
+4. Transfer funds between different accounts and add recipients
+5. Request cheque books for different accounts
