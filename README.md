@@ -21,26 +21,26 @@ Requesting cheque books
 
 ## Recommended technologies:
 
-Database management: MySQL
-Back-end logic: Java programming, SpringBoot framework
-Front-end development: Angular 2, HTML/CSS,
-Automation and testing technologies: Selenium and JUnit
-DevOps and production technologies: Git, GitHub, Jenkins, Docker, and AWS
+1.Database management: MySQL
+2.Back-end logic: Java programming, SpringBoot framework
+3.Front-end development: Angular 2, HTML/CSS,
+4.Automation and testing technologies: Selenium and JUnit
+5.DevOps and production technologies: Git, GitHub, Jenkins, Docker, and AWS
 
 
 ## Admin Portal:
 It deals with all the back-end data generation and product information. The admin user should be able to:
 
-Authorize the roles and guidelines for the user
-Grant access to the user regarding money transfer, deposits, and withdrawal
-Block the user account in case of any threat
-Authorize the cheque book requests
+1.Authorize the roles and guidelines for the user
+2.Grant access to the user regarding money transfer, deposits, and withdrawal
+3.Block the user account in case of any threat
+4.Authorize the cheque book requests
 
 ## User Portal:
 It deals with the user activities. The user should be able to:
 
-Register or log in to the application to maintain a record of activities
-Deposit and withdraw money from the account
-View transactions and balance in the primary and savings account
-Transfer funds between different accounts and add recipients
-Request cheque books for different accounts
+1.Register or log in to the application to maintain a record of activities
+2.Deposit and withdraw money from the account
+3.View transactions and balance in the primary and savings account
+4.Transfer funds between different accounts and add recipients
+5.Request cheque books for different accounts
